@@ -2,7 +2,7 @@
 - Problem Solving/Service Development using Data, AI, ML, and Optimization
 - LLM Application
 
-### 대외활동 (Activities)
+### 활동 (Activities)
 - 2022.08 전국 대학생 산업공학도 학술교류캠프 2022 FIELDCAMP 수료
 - 2023.06 ~ 2023.09 SKT FLY AI 3기 수료
 - 2023.09 ~ 2023.12 KAIST 기초기계학습 마이크로디그리 수료
