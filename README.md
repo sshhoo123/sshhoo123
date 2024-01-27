@@ -8,7 +8,7 @@
 - 2023.09 ~ 2023.12 KAIST 기초기계학습 마이크로디그리 수료
 - 2023.11 ~ 2023.12 가을 deepdaiv. (인공지능동아리) AI Challenge 수료
 
-### 경력 (Experience)
+### 경력 (Work Experience)
 - 2024.01 ~ 2024.02 CrowdWorks AI개발팀 NLP Engineer Intern
 
 ### 프로젝트 (Projects)
