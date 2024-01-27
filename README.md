@@ -6,7 +6,7 @@
 - 2022.08.10 ~ 2022.08.12 전국 대학생 산업공학도 학술교류캠프 2022 FIELDCAMP 수료
 - 2023.06.26 ~ 2023.09.01 SKT FLY AI 3기 수료
 - 2023.09.01 ~ 2023.12.31 KAIST 기초기계학습 마이크로디그리 수료
-- 2023.11.01 ~ 2024.01.06 가을 deepdaiv. (인공지능동아리) AI Challenge
+- 2023.11.01 ~ 2024.01.06 2023 fall deepdaiv. (인공지능동아리) AI Challenge
 
 ### 경력 (Work Experience)
 - 2024.01 ~ 2024.02 CrowdWorks AI개발팀 NLP Engineer Intern
