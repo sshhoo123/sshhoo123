@@ -28,11 +28,11 @@
 - **23년 가을 deep daiv. AI Challenge** (2023.11~2023.12)
   - 오디오데이터를 활용한 위급상황 감지모델
   - 모델 학습 및 파이프라인 구축
-  - https://abounding-tennis-da0.notion.site/a1f9b298e4534b89930ca5318210efe2?pvs=4
+  - 상세내용: https://abounding-tennis-da0.notion.site/a1f9b298e4534b89930ca5318210efe2?pvs=4
 - **2023 KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트** (2023.09~2023.12)
   - 딥러닝을 활용한 저혈압 및 실제 혈압 예측
   - LSTM 활용 분류/회귀 수행, 추후 성능 향상 방안 고안
-  - https://drive.google.com/file/d/17h4nqGmWhUY9FZeQOvdiRzAInXbfLxzj/view?usp=sharing
+  - 상세내용: https://drive.google.com/file/d/17h4nqGmWhUY9FZeQOvdiRzAInXbfLxzj/view?usp=sharing
 - **2023 산업공학종합설계** (2023.09~2023.12)
   - VHDT: Vision and Human-Object Interaction Detection Transformer based on ViDT
   - 연구 설계 및 모델 개선 수행
