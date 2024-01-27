@@ -28,19 +28,19 @@
 - **23년 가을 deep daiv. AI Challenge** (2023.11~2023.12)
   - 오디오데이터를 활용한 위급상황 감지모델
   - 모델 학습 및 파이프라인 구축
-  - 상세내용: https://abounding-tennis-da0.notion.site/a1f9b298e4534b89930ca5318210efe2?pvs=4
+  - [프로젝트 상세](https://abounding-tennis-da0.notion.site/a1f9b298e4534b89930ca5318210efe2?pvs=4)
 - **2023 KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트** (2023.09~2023.12)
   - 딥러닝을 활용한 저혈압 및 실제 혈압 예측
   - LSTM 활용 분류/회귀 수행, 추후 성능 향상 방안 고안
-  - 상세내용: https://drive.google.com/file/d/17h4nqGmWhUY9FZeQOvdiRzAInXbfLxzj/view?usp=sharing
+  - [프로젝트 상세](https://drive.google.com/file/d/17h4nqGmWhUY9FZeQOvdiRzAInXbfLxzj/view?usp=sharing)
 - **2023 산업공학종합설계** (2023.09~2023.12)
   - VHDT: Vision and Human-Object Interaction Detection Transformer based on ViDT
   - 연구 설계 및 모델 개선 수행
-  - 논문: https://drive.google.com/file/d/17GW5Mna8VYqVT9xvSGMMkGPirxXOHao3/view?usp=sharing
+  - [논문](https://drive.google.com/file/d/17GW5Mna8VYqVT9xvSGMMkGPirxXOHao3/view?usp=sharing)
 - **SKT FLY AI 3기 프로젝트** (2023.8)
   - 투니월드 : AI와 함께 그리는 나만의 만화(생성형 AI를 활용한 이야기를 만화로 만들어주는 서비스)
   - AI 모델링, 프롬프트 엔지니어링 담당
-  - [프로젝트 리뷰 보기](https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList)
+  - [프로젝트 상세-"투니월드"검색](https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList)
 
 
 ### 수상경력 (Awards)
