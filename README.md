@@ -17,7 +17,7 @@
   - [프로젝트 리뷰 보기](https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList)
 - **2023 산업공학종합설계**
   - VHDT: Vision and Human-Object Interaction Detection Transformer based on ViDT
-- **KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트**
+- **2023 KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트**
   - 딥러닝을 활용한 저혈압 및 실제 혈압 예측
 - **23년 가을 deep daiv. AI Challenge**
   - 오디오데이터를 활용한 위급상황 감지모델
