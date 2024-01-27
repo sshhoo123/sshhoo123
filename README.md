@@ -1,5 +1,5 @@
 ### 관심분야 (Interest)
-- Problem Solving/Service Development using Data, AI, ML, and Optimization
+- Problem Solving/Service Development using Data, AI, ML, Optimization and Domain Knowledge
 - LLM Application
 
 ### 활동 (Activities)
