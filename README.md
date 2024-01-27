@@ -35,7 +35,7 @@
   - [프로젝트 상세](https://drive.google.com/file/d/17h4nqGmWhUY9FZeQOvdiRzAInXbfLxzj/view?usp=sharing)
 - **2023 산업공학종합설계** (2023.09~2023.12)
   - VHDT: Vision and Human-Object Interaction Detection Transformer based on ViDT
-  - 연구 설계 및 모델 개선 수행
+  - 연구 설계,실험 및 모델 개선 수행
   - [논문](https://drive.google.com/file/d/17GW5Mna8VYqVT9xvSGMMkGPirxXOHao3/view?usp=sharing)
 - **SKT FLY AI 3기 프로젝트** (2023.8)
   - 투니월드 : AI와 함께 그리는 나만의 만화(생성형 AI를 활용한 이야기를 만화로 만들어주는 서비스)
