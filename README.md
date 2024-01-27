@@ -1,4 +1,4 @@
-### 관심분야 (Interest)
+### 관심분야 (Interests)
 - Problem Solving/Service Development using Data, AI, ML, and Optimization
 - LLM Application
 
