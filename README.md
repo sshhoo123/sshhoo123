@@ -45,7 +45,7 @@
 
 
 ### 수상경력 (Awards)
-- 2023 KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트 경진대회 **최우수상**(Award) 수상
+- 2023 KAIST 기초기계학습 마이크로디그리 캡스톤 프로젝트 경진대회 **최우수상**(1st place) 수상
 - SKT FLY AI 3기 프로젝트부문 **대상**(1st place) 수상
 - 2022 FIELDCAMP Competition **최우수상**(1st place) 수상
   <br>-조장(Team Leader) 수행
