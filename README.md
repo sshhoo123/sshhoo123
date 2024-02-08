@@ -25,7 +25,7 @@
 
 ### 경력 (Work Experience)
 - 2024.01 ~ 2024.02 CrowdWorks AI개발팀 NLP Engineer Intern
-  - ocr,llm,document AI를 활용한 문서이해(Document Understanding) 연구
+  - OCR,LLM,Document AI를 활용한 문서이해(Document Understanding) 연구
   - [활동 상세](https://abounding-tennis-da0.notion.site/Document-Understanding-8a8b6da6e12141568eceef5d50ae96e4)
 
 ### 프로젝트 (Projects)
