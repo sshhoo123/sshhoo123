@@ -13,6 +13,7 @@
 
 ### 관심분야 (Interests)
 - Problem Solving/Service Development using Data, AI, ML, and Optimization
+- MultiModal
 - LLM Application
 
 ### 활동 (Activities)
