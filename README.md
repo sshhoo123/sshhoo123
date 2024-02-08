@@ -42,7 +42,8 @@
 - **SKT FLY AI 3기 프로젝트** (2023.8)
   - 투니월드 : AI와 함께 그리는 나만의 만화(생성형 AI를 활용한 이야기를 만화로 만들어주는 서비스)
   - AI 모델링, 프롬프트 엔지니어링 수행
-  - [프로젝트 상세-"투니월드"검색](https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList)
+  - ["투니월드"](https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewList)
+  - [프로젝트 상세](https://drive.google.com/file/d/1cMe7Q0nabPqxCBiAgw1pnX9SUhr29SXb/view?usp=sharing)
 
 
 ### 수상경력 (Awards)
