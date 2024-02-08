@@ -13,8 +13,8 @@
 
 ### 관심분야 (Interests)
 - Problem Solving/Service Development using Data, AI, ML, and Optimization
-- MultiModal
 - LLM Application
+- MultiModal
 
 ### 활동 (Activities)
 - 2023.11.01 ~ 2024.01.06 2023년 가을 deepdaiv. (인공지능동아리) AI Challenge
