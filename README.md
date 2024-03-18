@@ -17,7 +17,7 @@
 - MultiModal(CV,NLP,Audio,Generative)
 
 ### 활동 (Activities)
-- 2023.03.18 ~ Present 2024 현대자동차 H-MobilityClass 자율주행부문
+- 2023.03.18 ~ Present    현대자동차 H-MobilityClass 자율주행부문
 - 2023.11.01 ~ 2024.01.06 2023년 가을 deepdaiv. (인공지능동아리) AI Challenge
 - 2023.09.01 ~ 2023.12.31 KAIST 기초기계학습 마이크로디그리 수료
 - 2023.06.26 ~ 2023.09.01 SKT FLY AI 3기 수료
