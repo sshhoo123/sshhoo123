@@ -1,5 +1,5 @@
 
-<img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img  alt="r" src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+<img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img  alt="r" src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <br><img  alt="pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
 <img  alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img  alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-150458?style=for-the-badge&logo=scikitlearn&logoColor=white">
