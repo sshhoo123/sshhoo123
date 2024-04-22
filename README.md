@@ -1,4 +1,4 @@
-[Notion 포트폴리오](https://abounding-tennis-da0.notion.site/c62899bba1cb4a28a604094745e6cd72)
+[Notion 포트폴리오 링크](https://abounding-tennis-da0.notion.site/c62899bba1cb4a28a604094745e6cd72)
 
 <br><img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img  alt="r" src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img  alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
