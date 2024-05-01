@@ -13,7 +13,7 @@
 <img  alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
-### 관심분야 (Interests)
+### 관심분야 (Interest Areas)
 - Problem Solving/Service Development using Data, AI, ML, and Optimization
 - LLM Application
 - MultiModal(CV,NLP,Audio,Generative)
