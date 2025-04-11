@@ -16,7 +16,7 @@
 ### 관심분야 (Interest Areas)
 - **Machine Learning, Deep Learning(CV,NLP,LLM,Generative model,Multimodal),
 Reinforcement Learning**
-- **AI/BigData Systems, Data Engineering, MLops**
+- **AI/BigData System, Data Engineering, MLops**
 - **Data Analytics, Operation Research, Statistics, Time Series Analysis**
 
 
