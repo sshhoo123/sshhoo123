@@ -14,9 +14,10 @@
 
 
 ### 관심분야 (Interest Areas)
-- Problem Solving/Service Development using Data, AI, ML, and Optimization
-- LLM Application
-- MultiModal(CV,NLP,Audio,Generative)
+- **Machine Learning, Deep Learning(CV,NLP,LLM,Generative model,Multimodal),
+Reinforcement Learning**
+- **AI/BigData Systems, Data Engineering, MLops**
+- **Data Analytics, Operation Research, Statistics, Time Series Analysis**
 
 
 
